@@ -5,7 +5,7 @@ _Graded Challenge ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data S
 
 ---
 
-## Dataset Description
+## Dataset Descriptions
 
 * Pada graded challenge ini, data diakses menggunakan `bigquery-public-data` pada Google Cloud Big Query.
 * Buka [Google Cloud Platform](https://console.cloud.google.com/), masuk ke BigQuery, lalu buka tab `bigquery-public-data` atau klik link [berikut](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=samples&page=dataset&_ga=2.245085957.1471931019.1642739417-486643658.1638156099) atau link [berikut](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=covid19_jhu_csse_eu&page=dataset&project=rock-wonder-317907) untuk langsung menuju ke dataset.
